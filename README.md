@@ -3,8 +3,17 @@
 Estudos de microserviços em java com spring boot e spring cloud
 
 ## Microservicos
-- hr-worker
+- hr-api-gatewa-zuul
+- hr-config-server
+- hr-eureka-server
+- hr-oauth
 - hr-payroll
+- hr-user
+- hr-worker
+
+
+### Repositórico com configuração
+ms-course-config `private`
 
 ## Tecnologia
 
