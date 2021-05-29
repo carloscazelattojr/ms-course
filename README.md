@@ -21,9 +21,11 @@ ms-course-config `private`
 
 ## Modelagem
 
+
 <h1 align="center">
     <img alt="ms-course" title="#Project" src="https://github.com/carlosjunior1983/ms-course/blob/main/img/projeto.PNG"  /><br>
 </h1>
+
 
 
 <h1 align="center">
@@ -31,8 +33,14 @@ ms-course-config `private`
 </h1>
 
 
+
 <h1 align="center">
     <img alt="ms-course" title="#Security" src="https://github.com/carlosjunior1983/ms-course/blob/main/img/Security.PNG"  /><br>
+</h1>
+
+
+<h1 align="center">
+    <img alt="ms-course" title="#docker" src="https://github.com/carlosjunior1983/ms-course/blob/main/img/docker.PNG"  /><br>
 </h1>
 
 
